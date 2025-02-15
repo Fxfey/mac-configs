@@ -1,0 +1,55 @@
+# Font
+font-family = JetBrains Mono NL
+font-size = 20
+
+# Cursor
+cursor-style = block
+mouse-hide-while-typing = true
+
+# Window options
+window-padding-balance = true
+window-save-state = always
+window-colorspace = "display-p3"
+
+# Colors
+background = #262828
+foreground = #abb2bf
+cursor-color = #dcdfe4
+
+# Colours are in order of:
+#  - normal
+#  - bright
+
+# Black
+palette = 0=#1e2127
+palette = 8=#5c6370
+
+# Red
+palette = 1=#e06c75
+palette = 9=#e06c75
+
+# Green
+palette = 2=#98c379
+palette = 10=#98c379
+
+# Yellow
+palette = 3=#e5c07b
+palette = 11=#e5c07b
+
+# Blue
+palette = 4=#61afef
+palette = 12=#61afef
+
+# Magenta
+palette = 5=#c678dd
+palette = 13=#c678dd
+
+# Cyan
+palette = 6=#56b6c2
+palette = 14=#56b6c2
+
+# White
+palette = 7=#dcdfe4
+palette = 15=#ffffff
+
+
