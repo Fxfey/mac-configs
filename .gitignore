@@ -1,2 +1,7 @@
 # Ignore raycast as bloat
 /raycast/*
+/raycast
+
+# Ignore jgit as bloat
+/jgit/*
+/jgit
