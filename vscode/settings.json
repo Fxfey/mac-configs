@@ -14,7 +14,7 @@
         "activityBar.activeBackground": "#262828",
         "activityBar.background": "#262828",
         "activityBar.foreground": "#007D6F",
-        "activityBar.inactiveForeground":"#425654",
+        "activityBar.inactiveForeground": "#425654",
         "activityBarBadge.foreground": "#007D6F",
         "activityBarBadge.background": "#e7e9e8",
 
@@ -49,10 +49,11 @@
     "editor.padding.bottom": 10,
     "editor.padding.top": 10,
     "workbench.editor.enablePreview": false,
-    "window.zoomLevel": 0.20,
+    "window.zoomLevel": 0.2,
 
     // Workbench
     "workbench.tree.indent": 10,
+    "workbench.startupEditor": "none",
 
     // Font
     "editor.fontFamily": "JetBrains Mono NL",
@@ -103,7 +104,7 @@
     "errorLens.messageBackgroundMode": "message",
     "errorLens.padding": "0 6px",
     "errorLens.gutterIconsEnabled": true,
-    "errorLens.gutterIconSet":"squareRounded",
+    "errorLens.gutterIconSet": "squareRounded",
     "errorLens.gutterIconSize": "110%",
 
     // Indent Rainbow
@@ -111,7 +112,7 @@
         "rgba(255,255,255,0.05)",
         "rgba(255,255,255,0.01)",
         "rgba(0,0,0,0.1)",
-        "rgba(0,0,0,0.2)",
+        "rgba(0,0,0,0.2)"
     ],
 
     // Better Comments
@@ -162,5 +163,4 @@
             "italic": false
         }
     ],
-
 }
