@@ -5,3 +5,14 @@
 # Ignore jgit as bloat
 /jgit/*
 /jgit
+
+# Ignore gtk as bloat
+/gtk-3.0
+
+# Ignore xxh as bloat
+/xxh
+
+# Composer
+/composer/vendor
+/composer/.htaccess
+/composer/composer.lock
