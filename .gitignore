@@ -16,3 +16,6 @@
 /composer/vendor
 /composer/.htaccess
 /composer/composer.lock
+
+# FileZilla
+/filezilla
